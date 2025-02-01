@@ -11,11 +11,59 @@ message: >-
 type: dataset
 authors:
   - given-names: George
-    name-particle: George
     family-names: Dawes
     email: george-dawes@hotmail.co.uk
-    affiliation: Loughborough Univeristy
+    affiliation: Loughborough University
     orcid: 'https://orcid.org/0000-0002-1052-8592'
+  - email: kirantmitic@uni-wuppertal.de
+    orcid: 'https://orcid.org/0000-0002-1702-8822'
+    given-names: TuÄŸÃ§in
+    family-names: Kirant-MitiÄ‡
+    affiliation: Wuppertal University
+  - given-names: 'Zixin '
+    family-names: Jiang
+    email: zjiang19@syr.edu
+    affiliation: Syracuse University
+  - given-names: 'JÃ©rÃ´me '
+    family-names: Le DrÃ©au
+    email: jledreau@univ-lr.fr
+    affiliation: La Rochelle University
+    orcid: 'https://orcid.org/0000-0002-6804-4160'
+  - given-names: 'Hanmin '
+    family-names: Cai
+    orcid: 'https://orcid.org/0000-0001-7435-0239'
+    email: hanmin.cai@empa.ch
+    affiliation: >-
+      Empa - Swiss Federal Laboratories for Materials
+      Science and Technology
+  - given-names: 'Jiyuan '
+    family-names: Cui
+    orcid: 'https://orcid.org/0009-0009-4229-9665'
+    affiliation: Technical University of Denmark
+    email: s212631@student.dtu.dk
+  - given-names: 'Jordan '
+    family-names: Townsend
+    email: J.Townsend@lboro.ac.uk
+    affiliation: Loughborough University
+  - given-names: 'Adamantios '
+    family-names: Bampoulas
+    affiliation: University College Dublin
+    email: adamantios.bampoulas@ucd.ie
+    orcid: 'https://orcid.org/0000-0002-1020-1071'
+  - given-names: 'Rongling '
+    family-names: Li
+    email: liron@dtu.dk
+    orcid: 'https://orcid.org/0000-0002-3654-8014'
+    affiliation: Technical University of Denmark
+  - given-names: 'Rui '
+    family-names: Amaral Lopes
+    email: rm.lopes@fct.unl.pt
+    affiliation: NOVA University Lisbon
+    orcid: 'https://orcid.org/0000-0002-6953-1403'
+  - given-names: 'Bing '
+    family-names: Dong
+    email: bidong@syr.edu
+    affiliation: Syracuse University
 repository-code: >-
   https://github.com/GeorgeDawes/A82-Dominant-Factors-of-Energy-Flexibility.git
 abstract: >-
