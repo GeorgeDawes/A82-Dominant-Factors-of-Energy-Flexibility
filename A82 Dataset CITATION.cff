@@ -1,0 +1,36 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  Energy Flexibility in the Built Environment: A Review of
+  the Dominant Factors and Uncertainties at Scale - Datasets
+message: >-
+  If you use this dataset, please cite it using the metadata
+  from this file.
+type: dataset
+authors:
+  - given-names: George
+    name-particle: George
+    family-names: Dawes
+    email: george-dawes@hotmail.co.uk
+    affiliation: Loughborough Univeristy
+    orcid: 'https://orcid.org/0000-0002-1052-8592'
+repository-code: >-
+  https://github.com/GeorgeDawes/A82-Dominant-Factors-of-Energy-Flexibility.git
+abstract: >-
+  A repository of several datasets which support the output
+  manuscript from this IEA Annex 82 project. The datasets
+  are spreadsheets of information, identifying and detailing
+  the outputs from the initial literature review search, the
+  selected papers for further review, and the review table
+  itself.
+keywords:
+  - Energy Flexibility
+  - Uncertainty mitigation
+  - Building-grid interaction
+  - Dominant factors
+  - Building energy systems
+  - Dataset
+  - IEA Annex 82
+license: CC-BY-NC-4.0
